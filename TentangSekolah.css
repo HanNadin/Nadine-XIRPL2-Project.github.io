@@ -1,0 +1,245 @@
+#logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: -50px;
+}
+
+#gambar {
+    width: 100%;
+    filter: brightness(70%);
+    opacity: 80%;
+}
+
+
+table {
+    padding-inline: 100px;
+    padding-top: -50px;
+    vertical-align: top;
+}
+
+#nama {
+    size: 10px;
+    font-weight: 600;
+    padding-bottom: 8px;
+    font-family: Perpetua;
+}
+
+td a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    margin-right: -70px;
+    text-align: right;
+}
+
+.tabel{
+    padding-left: 100px;
+}
+
+td a:hover {
+    color: orange;
+}
+
+.centered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-family: Perpetua;
+    color: whitesmoke;
+  }
+
+  .card1 {
+    height: 525px;
+    width: 1200px;
+    background-color: #740001;
+    text-align: left;
+    margin-top: 250px;
+    padding-left: 30px;
+    padding-top: 25px;
+    font-family: Arial;
+    color: #f0f0f0;
+}
+
+.container1 {
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-bottom: 250px;
+    margin-top: -90px;
+}
+
+.Gryfindor {
+    height: 500px;
+    width: 350px;
+    float: right;
+    margin-right: 30px;
+}
+
+.tntng h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 50px;
+    font-family: Perpetua;
+    color: #5d5d5d;
+}
+
+.tntng {
+    width: 900px;
+    align-items: center;
+    margin-left: 450px;
+}
+
+h2 {
+    text-align: justify;
+    color: #5d5d5d;
+}
+
+.card1 h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card1 p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: left;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card2 {
+    height: 525px;
+    width: 1200px;
+    background-color: #0e1a40;
+    text-align: left;
+    margin-top: 250px;
+    padding-left: 30px;
+    padding-top: 25px;
+    font-family: Arial;
+    color: #f0f0f0;
+}
+
+.container2 {
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-bottom: 250px;
+}
+
+.card2 h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card2 p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: left;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card3 {
+    height: 525px;
+    width: 1200px;
+    background-color: #ecb939;
+    text-align: left;
+    margin-top: 250px;
+    padding-left: 30px;
+    padding-top: 25px;
+    font-family: Arial;
+    color: #f0f0f0;
+}
+
+.container3 {
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-bottom: 250px;
+}
+
+.card3 h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card3 p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: left;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card4 {
+    height: 525px;
+    width: 1200px;
+    background-color: #1a472a;
+    text-align: left;
+    margin-top: 250px;
+    padding-left: 30px;
+    padding-top: 25px;
+    font-family: Arial;
+    color: #f0f0f0;
+}
+
+.container4 {
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-bottom: 250px;
+}
+
+.card4 h1 {
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.card4 p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: left;
+    font-family: Perpetua;
+    color: #E3E3E3;
+}
+
+.founder h1 {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 60px;
+    font-family: Perpetua;
+    color: #5d5d5d;
+    text-decoration: underline;
+}
